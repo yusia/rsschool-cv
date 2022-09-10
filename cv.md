@@ -1,5 +1,5 @@
 # Julia Antonova    
-![women](/images/ph-S.jpeg "Women") 
+![women](./images/ph-S.jpeg "Women") 
 
 
 ## Education ##  
