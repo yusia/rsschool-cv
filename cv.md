@@ -4,7 +4,7 @@
 
 ## Education ##  
 Belarusian National Technical University
-*****************
+
 ## Profile ##
 The main goal is to renew js knowledges and get a new experience.
 
@@ -46,14 +46,14 @@ function scramble(str1, str2) {
 *****************
 ## Git ##
 Cv : [rsschool-cv](https://yusia.github.io/rsschool-cv/)
-*****************
+
 ## Expirience ## 
- >Participated in a migration from ExtJS to AngularJS, implemented new features of the UI side part of the application.
+ > Participated in a migration from ExtJS to AngularJS, implemented new features of the UI side part of the application.
  Performed code reviews, knowledge transfers, participated in technical interviews;
  Analyzed and clarified requirement, groomed and estimated stories
  Implemented complex reusable components and integrated them into an existing system, designed and implemented keyboard navigation, print functionality.
  Participated in communication with the customer
-*****************
+ >
 ## Languages ## 
 - English B1 (able to speak with customers, to clarify reqierments. Had expirience with meetings and offline communications with product owners)
 - Russian (Native)
